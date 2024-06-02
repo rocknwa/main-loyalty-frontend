@@ -114,3 +114,5 @@ types
 
 # Husky
 .husky/_
+
+.env
